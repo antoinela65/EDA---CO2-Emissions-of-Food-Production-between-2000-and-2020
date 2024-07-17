@@ -1,0 +1,1 @@
+Hi! My name is Antoine Laverdière-Allaire. I am a Canadian Master's student in Business Intelligence at HEC Montreal. I am passionate about data analysis and I wish to occupy a huge part in the field in the near future.
