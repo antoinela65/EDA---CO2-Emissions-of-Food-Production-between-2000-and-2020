@@ -8,6 +8,8 @@ This database includes information on emissions due to savanna and forest fires,
 
 Additionally, it provides demographic and climatic data such as rural and urban populations and temperature variations, offering a comprehensive overview to analyze the global environmental impact of food production.
 
+You can access the Python file containing the complete code under the name NBA Players_EDA + Data Cleaning.ipynb.
+
 ## Technologies Used
 
 - **Python**: For data analysis and visualization.
