@@ -9,6 +9,7 @@ This database includes information on emissions due to savanna and forest fires,
 Additionally, it provides demographic and climatic data such as rural and urban populations and temperature variations, offering a comprehensive overview to analyze the global environmental impact of food production.
 
 Python file containing the complete code : Impact CO2.ipynb 
+
 CSV dataset : Agrofood_co2_emission.csv. 
 
 ## Technologies Used
